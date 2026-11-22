@@ -29,6 +29,8 @@ RubyGems
 
 RSpec
 
+Windows 10
+
 Visual Studio Code
 
 PowerShell
